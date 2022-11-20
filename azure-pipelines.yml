@@ -19,5 +19,3 @@ steps:
     npm run build
     npm test
   displayName: 'npm install, build and test'
-
-[![Build Status](https://dev.azure.com/Praveen-Training-PractiseDevOps/Practise/_apis/build/status/RaghuRocks3.calculator?branchName=master)](https://dev.azure.com/Praveen-Training-PractiseDevOps/Practise/_build/latest?definitionId=1&branchName=master)
