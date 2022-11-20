@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: Azure_Self_Agent
 
 steps:
 - task: NodeTool@0
